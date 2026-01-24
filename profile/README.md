@@ -1,8 +1,6 @@
 # NISHANTH MURTHY KOTTAPALLI
 
 **Hands-on AI & Infrastructure Architect**  
-_Reproducible systems over fragile heroics_
-
 ---
 
 I design, audit, and stabilize **cloud, data, and AI systems** for teams that have outgrown ad-hoc workflows.
