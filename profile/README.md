@@ -1,10 +1,26 @@
-# NISHANTH MURTHY KOTTAPALLI
+<table>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 16px;">
+      <div style="width:100px; height:100px; border-radius:50%; overflow:hidden;">
+        <img
+          src="https://media.licdn.com/dms/image/v2/D4D03AQEzD_TijAuVAQ/profile-displayphoto-shrink_800_800/B4DZce3EVSG8Ac-/0/1748569442881?e=1771459200&v=beta&t=FQ5n0tluzeTjZ6w4V-ZIXlHpkQ5_mQm9Oi9lHTh2clI"
+          alt="Display Picture"
+          width="100"
+          height="100"
+          style="object-fit: cover; display:block;"
+        />
+      </div>
+    </td>
+    <td style="vertical-align: middle;">
+      <h1 style="margin:0;">NISHANTH MURTHY KOTTAPALLI</h1>
+      <a href="https://www.linkedin.com/nishanthkottapalli">
+      <img id="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="height:14px;width:auto;display:inline" alt="Linkedin icon" />
+      <strong>Hands-on AI &amp; Infrastructure Architect</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Hands-on AI & Infrastructure Architect**  
-
-<a href="[https://www.linkedin.com/company/dovedigital](https://www.linkedin.com/in/nishanthkottapalli)">
-<img id="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="height:16px;width:auto;display:inline" alt="Linkedin icon" />
-</a>
 
 ---
 
