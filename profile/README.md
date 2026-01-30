@@ -1,7 +1,10 @@
 # NISHANTH MURTHY KOTTAPALLI
 
 **Hands-on AI & Infrastructure Architect**  
-_Reproducible systems_
+
+<a href="[https://www.linkedin.com/company/dovedigital](https://www.linkedin.com/in/nishanthkottapalli)">
+<img id="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="height:16px;width:auto;display:inline" alt="Linkedin icon" />
+</a>
 
 ---
 
@@ -14,6 +17,7 @@ This GitHub organization is where I publish **reference implementations, playboo
 ---
 
 ## What you'll find here
+_Reproducible systems_
 
 ### 🔧 Infrastructure & Cloud Operations
 - Terraform-first workflows
