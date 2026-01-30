@@ -7,7 +7,7 @@ _Reproducible systems over fragile heroics_
 
 I design, audit, and stabilize **cloud, data, and AI systems** for teams that have outgrown ad-hoc workflows.
 
-My work focuses on converting **click-ops, tribal knowledge, and experimental setups** into **auditable, repeatable, production-grade platforms**—without unnecessary complexity or hype.
+My work focuses on converting **click-ops, tribal knowledge, and experimental setups** into **auditable, repeatable, production-grade platforms**;without unnecessary complexity or hype.
 
 This GitHub organization is where I publish **reference implementations, playbooks, and NDA-safe engineering artifacts** drawn from real-world systems work.
 
