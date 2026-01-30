@@ -43,7 +43,7 @@ Everything published here is **mechanism-driven**, not demo-driven.
 
 ## TF141-LABS
 
-Most of the work in this organization is published under **TF141-LABS** — my applied engineering lab.
+Most of the work in this organization is published under **TF141-LABS** - my applied engineering lab.
 
 TF141-LABS exists to:
 - Document repeatable infrastructure and AI workflows
@@ -60,7 +60,7 @@ Just systems that survive contact with reality.
 
 ## How to use this organization
 
-- Start with the README of any repository — context matters
+- Start with the README of any repository; context matters
 - Treat repositories as **reference implementations**, not copy-paste templates
 - Expect clear constraints, tradeoffs, and documented failure modes
 
