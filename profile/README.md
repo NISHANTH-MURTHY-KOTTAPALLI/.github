@@ -15,7 +15,7 @@
       <h1 style="margin:0;">NISHANTH MURTHY KOTTAPALLI</h1>
       <a href="https://www.linkedin.com/nishanthkottapalli">
       <img id="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="height:14px;width:auto;display:inline" alt="Linkedin icon" />
-      <strong>Hands-on AI &amp; Infrastructure Architect</strong>
+      Hands-on AI &amp; Infrastructure Architect
       </a>
     </td>
   </tr>
