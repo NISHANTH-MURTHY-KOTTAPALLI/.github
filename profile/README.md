@@ -1,11 +1,13 @@
 # NISHANTH MURTHY KOTTAPALLI
 
 **Hands-on AI & Infrastructure Architect**  
+_Reproducible systems over fragile heroics_
+
 ---
 
 I design, audit, and stabilize **cloud, data, and AI systems** for teams that have outgrown ad-hoc workflows.
 
-My work focuses on converting **click-ops, tribal knowledge, and experimental setups** into **auditable, repeatable, production-grade platforms**- without unnecessary complexity or hype.
+My work focuses on converting **click-ops, tribal knowledge, and experimental setups** into **auditable, repeatable, production-grade platforms**—without unnecessary complexity or hype.
 
 This GitHub organization is where I publish **reference implementations, playbooks, and NDA-safe engineering artifacts** drawn from real-world systems work.
 
@@ -27,7 +29,7 @@ This GitHub organization is where I publish **reference implementations, playboo
 
 ### ⚙️ Systems & Performance Engineering
 - Redis as a systems primitive (state, streams, mechanics)
-- Hybrid CPU-GPU architectures
+- Hybrid CPU–GPU architectures
 - Pathfinding, simulation, and performance-sensitive workloads
 
 ### 🧪 Applied Engineering Labs
@@ -36,10 +38,12 @@ This GitHub organization is where I publish **reference implementations, playboo
 - Edge and low-resource UI systems (LVGL, Raspberry Pi)
 
 Everything published here is **mechanism-driven**, not demo-driven.
-Most of the work in this organization is published under **TF141-LABS** - my applied engineering lab.
+
 ---
 
 ## TF141-LABS
+
+Most of the work in this organization is published under **TF141-LABS** — my applied engineering lab.
 
 TF141-LABS exists to:
 - Document repeatable infrastructure and AI workflows
@@ -56,7 +60,7 @@ Just systems that survive contact with reality.
 
 ## How to use this organization
 
-- Start with the README of any repository - context matters
+- Start with the README of any repository — context matters
 - Treat repositories as **reference implementations**, not copy-paste templates
 - Expect clear constraints, tradeoffs, and documented failure modes
 
