@@ -1,7 +1,7 @@
 # NISHANTH MURTHY KOTTAPALLI
 
 **Hands-on AI & Infrastructure Architect**  
-_Reproducible systems over fragile heroics_
+_Reproducible systems_
 
 ---
 
