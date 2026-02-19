@@ -3,7 +3,7 @@
     <td style="vertical-align: middle; padding-right: 16px;">
       <div style="width:100px; height:100px; border-radius:50%; overflow:hidden;">
         <img
-          src="profile/1748569442861.jpeg"
+          src="./1748569442861.jpeg"
           alt="Display Picture"
           width="100"
           height="100"
