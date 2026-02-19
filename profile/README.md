@@ -3,7 +3,7 @@
     <td style="vertical-align: middle; padding-right: 16px;">
       <div style="width:100px; height:100px; border-radius:50%; overflow:hidden;">
         <img
-          src="https://media.licdn.com/dms/image/v2/D4D03AQEzD_TijAuVAQ/profile-displayphoto-shrink_800_800/B4DZce3EVSG8Ac-/0/1748569442881?e=1771459200&v=beta&t=FQ5n0tluzeTjZ6w4V-ZIXlHpkQ5_mQm9Oi9lHTh2clI"
+          src="profile/1748569442861.jpeg"
           alt="Display Picture"
           width="100"
           height="100"
